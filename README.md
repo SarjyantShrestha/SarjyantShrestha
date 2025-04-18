@@ -58,13 +58,13 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
   <img width="6" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo"  />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo"  />
 </div>
 
 ###
